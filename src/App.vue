@@ -53,7 +53,7 @@ export default {
             "Scrivere codice è come scrivere musica. Si può essere Mozart o Gigi D’Alessio.",
           nome: "Stefano",
         },
-        { src: null, testo: "Nananananana Batman", nome: "Simone" },
+        { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "", nome: "" },
       ],
     };
